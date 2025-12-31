@@ -27,6 +27,14 @@
     - Financial Data
     - Sensor Data
 
+## NLP Project
+- Topic Modeling
+- Speech Emotion Detection
+- Text Summarization
+- Resume Parsing
+- Question Answering About Specific Quran Page (BERT Answer Question)
+- 
+
 ## Author
 Mubashir Rasool Razvi\
 mubashirrr@techouse.agency
