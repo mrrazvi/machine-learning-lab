@@ -1,5 +1,4 @@
 QDRANT_URL = "http://localhost:6333"
-COLLECTION_NAME = "qr_en_tr__abdullah-yusuf-ali"
-
-EMBEDDING_MODEL = "intfloat/multilingual-e5-large"
+COLLECTION_NAME = "quran"
+EMBEDDING_MODEL = "Qwen/Qwen3-Embedding-8B"
 VECTOR_SIZE = 1024
